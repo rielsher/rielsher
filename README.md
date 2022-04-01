@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Riel (@rielsher)!
-- 👀 I’m interested in machine learning, agile robotics/control, and computational physics.
+- 👀 I’m interested in machine learning, agile robotics/control, game development and computational physics.
 - 🌱 I typically code in C++, C#, Java or Python.
 - 📫 To reach me, email me at rarelyriel@gmail.com.
 
